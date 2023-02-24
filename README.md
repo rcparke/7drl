@@ -8,7 +8,7 @@ currently part 3
 keep updated in github for practice in rcparke/7drl then adjust the engine to suit my goals
 
 
-activating venv through powershell:
+## activating venv through powershell:
 
 cd\
 
@@ -19,7 +19,7 @@ cd 7drl
 start editing with visual studio code
 
 
-potential future changes:
+## potential future changes:
 
 change line of sight
 
