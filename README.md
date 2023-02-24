@@ -27,6 +27,6 @@ adjust map generation
 
 implement spell system (much easier said than done)
 
-    card/deck/draw based inspired by noita
-    
-    probably dont have wrapping
+- card/deck/draw based inspired by noita
+- 
+- probably dont have wrapping
