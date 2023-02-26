@@ -16,6 +16,8 @@ cd\
 
 cd 7drl
 
+python main.py
+
 start editing with visual studio code
 
 
