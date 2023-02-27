@@ -10,22 +10,26 @@ keep updated in github for practice in rcparke/7drl then adjust the engine to su
 
 ## activating venv through powershell:
 
-cd\
+- cd\
 
-7drl\scripts\activate.ps1
+- 7drl\scripts\activate.ps1
 
-cd 7drl
+- cd 7drl
 
-python main.py
+- python main.py
 
-start editing with visual studio code
+- start editing with visual studio code
 
 
 ## potential future changes:
 
-change line of sight
+change line of sight implementation
+
+- maybe repurpose the LoS code for visual targeting?
 
 adjust map generation
+
+- the tutorials implementation has corridors between rooms generated in the random order the rooms are generated, resulting in corridors overlapping previous rooms and corridors
 
 implement spell system (much easier said than done)
 
