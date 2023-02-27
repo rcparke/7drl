@@ -35,3 +35,5 @@ implement spell system (much easier said than done)
 
 - card/deck/draw based inspired by noita
 - probably dont have wrapping
+- turn based, how will I make the spellcasting system work within a turn
+  - have a mana system in addition to capacity, or just rely on tome capacity 
