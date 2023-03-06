@@ -40,7 +40,11 @@ implement spell system (much easier said than done)
 - card/deck/draw based inspired by noita
 - probably dont have wrapping
 - turn based, how will I make the spellcasting system work within a turn
-  - have a mana system in addition to capacity, or just rely on tome capacity
+  - brainstorming ideas:
+  - mana system, partially regenerate mana pool each turn, restricts casting more than total mana in a turn, as well as turn delay between casts to recharge mana
+  - spell cast delay system, where each spell has a given cast delay, and you can only cast up to a certain total cast delay per turn
+  - spellbook spell slot capacity
+  - the cast delay per turn restriction, and mana total/regen restrictions, could be local to each spellbook item along with the spellbook's spell slot capacity
 
 implement items
 
