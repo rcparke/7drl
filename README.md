@@ -3,7 +3,7 @@
 
 progress through the http://rogueliketutorials.com/tutorials/tcod/v2/
 
-currently part 3
+currently finished part 9
 
 keep updated in github for practice in rcparke/7drl then adjust the engine to suit my goals
 
